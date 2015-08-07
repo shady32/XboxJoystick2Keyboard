@@ -1,0 +1,9 @@
+D:\jchan\Documents\Visual Studio 2015\Projects\JoySticksHelper\JoySticksHelper\bin\x86\Debug\JoySticksHelper.exe.config
+D:\jchan\Documents\Visual Studio 2015\Projects\JoySticksHelper\JoySticksHelper\bin\x86\Debug\JoySticksHelper.exe
+D:\jchan\Documents\Visual Studio 2015\Projects\JoySticksHelper\JoySticksHelper\bin\x86\Debug\JoySticksHelper.pdb
+D:\jchan\Documents\Visual Studio 2015\Projects\JoySticksHelper\JoySticksHelper\bin\x86\Debug\J2i.Net.XInputWrapper.dll
+D:\jchan\Documents\Visual Studio 2015\Projects\JoySticksHelper\JoySticksHelper\obj\x86\Debug\JoySticksHelper.FormTest.resources
+D:\jchan\Documents\Visual Studio 2015\Projects\JoySticksHelper\JoySticksHelper\obj\x86\Debug\JoySticksHelper.Properties.Resources.resources
+D:\jchan\Documents\Visual Studio 2015\Projects\JoySticksHelper\JoySticksHelper\obj\x86\Debug\JoySticksHelper.csproj.GenerateResource.Cache
+D:\jchan\Documents\Visual Studio 2015\Projects\JoySticksHelper\JoySticksHelper\obj\x86\Debug\JoySticksHelper.exe
+D:\jchan\Documents\Visual Studio 2015\Projects\JoySticksHelper\JoySticksHelper\obj\x86\Debug\JoySticksHelper.pdb

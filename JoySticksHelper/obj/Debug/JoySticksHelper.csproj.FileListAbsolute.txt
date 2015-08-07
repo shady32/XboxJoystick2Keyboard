@@ -1,0 +1,21 @@
+D:\personal\code\Tools\JoySticksHelper\JoySticksHelper\bin\Debug\JoySticksHelper.exe.config
+D:\personal\code\Tools\JoySticksHelper\JoySticksHelper\bin\Debug\JoySticksHelper.exe
+D:\personal\code\Tools\JoySticksHelper\JoySticksHelper\bin\Debug\JoySticksHelper.pdb
+D:\personal\code\Tools\JoySticksHelper\JoySticksHelper\bin\Debug\J2i.Net.XInputWrapper.dll
+D:\personal\code\Tools\JoySticksHelper\JoySticksHelper\obj\Debug\JoySticksHelper.csprojResolveAssemblyReference.cache
+D:\personal\code\Tools\JoySticksHelper\JoySticksHelper\obj\Debug\JoySticksHelper.Properties.Resources.resources
+D:\personal\code\Tools\JoySticksHelper\JoySticksHelper\obj\Debug\JoySticksHelper.csproj.GenerateResource.Cache
+D:\personal\code\Tools\JoySticksHelper\JoySticksHelper\obj\Debug\JoySticksHelper.exe
+D:\personal\code\Tools\JoySticksHelper\JoySticksHelper\obj\Debug\JoySticksHelper.pdb
+D:\jchan\Documents\Visual Studio 2015\Projects\JoySticksHelper\JoySticksHelper\bin\Debug\JoySticksHelper.exe.config
+D:\jchan\Documents\Visual Studio 2015\Projects\JoySticksHelper\JoySticksHelper\obj\Debug\JoySticksHelper.exe
+D:\jchan\Documents\Visual Studio 2015\Projects\JoySticksHelper\JoySticksHelper\obj\Debug\JoySticksHelper.pdb
+D:\jchan\Documents\Visual Studio 2015\Projects\JoySticksHelper\JoySticksHelper\bin\Debug\JoySticksHelper.exe
+D:\jchan\Documents\Visual Studio 2015\Projects\JoySticksHelper\JoySticksHelper\bin\Debug\JoySticksHelper.pdb
+D:\jchan\Documents\Visual Studio 2015\Projects\JoySticksHelper\JoySticksHelper\obj\Debug\JoySticksHelper.csprojResolveAssemblyReference.cache
+D:\jchan\Documents\Visual Studio 2015\Projects\JoySticksHelper\JoySticksHelper\obj\Debug\JoySticksHelper.Properties.Resources.resources
+D:\jchan\Documents\Visual Studio 2015\Projects\JoySticksHelper\JoySticksHelper\obj\Debug\JoySticksHelper.csproj.GenerateResource.Cache
+D:\jchan\Documents\Visual Studio 2015\Projects\JoySticksHelper\JoySticksHelper\obj\Debug\JoySticksHelper.MainForm.resources
+D:\jchan\Documents\Visual Studio 2015\Projects\JoySticksHelper\JoySticksHelper\obj\Debug\JoySticksHelper.About.resources
+D:\jchan\Documents\Visual Studio 2015\Projects\JoySticksHelper\JoySticksHelper\bin\Debug\J2i.Net.XInputWrapper.dll
+D:\jchan\Documents\Visual Studio 2015\Projects\JoySticksHelper\JoySticksHelper\bin\Debug\J2i.Net.XInputWrapper.pdb
